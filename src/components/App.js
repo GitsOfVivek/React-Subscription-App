@@ -8,7 +8,7 @@ const App = () => {
 					<h2 class="community-header">Join our community</h2>
 					<div class="community-more">
 						<div class="sub">
-							30-day, hassle free money back guarantee
+							30-day, hassle free monkey back gurarantee
 						</div>
 						<div class="more-info">
 							Gain access to our full library of tutorials along
