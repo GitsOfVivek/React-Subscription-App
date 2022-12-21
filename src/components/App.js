@@ -31,14 +31,14 @@ const App = () => {
 					</div>
 					<div class="why-us">
 						<h4 class="why-us-header">Why Us</h4>
-						<div class="feature">
-							<div>Tutorials by industry experts</div>
-							<div>Peer & expert code review</div>
-							<div>Coding exercises</div>
-							<div>Access yo our Github repos</div>
-							<div>Community forum</div>
-							<div>Flashcard decks</div>
-						</div>
+						<ul class="feature">
+							<li>Tutorials by industry experts</li>
+							<li>Peer & expert code review</li>
+							<li>Coding exercises</li>
+							<li>Access yo our Github repos</li>
+							<li>Community forum</li>
+							<li>Flashcard decks</li>
+						</ul>
 					</div>
 				</div>
 			</div>

@@ -79,7 +79,8 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-.feature div {
+.feature li {
+	list-style: none;
 	margin: 2px 0;
 }
 .card-header, .why-us-header {
