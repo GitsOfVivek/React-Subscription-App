@@ -6,16 +6,19 @@ const App = () => {
 			<div class="container">
 				<div class="community">
 					<h2 class="community-header">Join our community</h2>
-					<div class="community-more">
-						<div class="sub">
-							30-day, hassle free monkey back gurarantee
-						</div>
-						<div class="more-info">
+					<ul class="community-more">
+						<li class="sub">
+							30-day, hassle free money back guarantee
+						</li>
+						<li class="more-info">
 							Gain access to our full library of tutorials along
-							with expert code reviews. Perfect for any developers
+							with expert code reviews.
+						</li>
+						<li class="more-info">
+							Perfect for any developers
 							who are serious about honing their skills.
-						</div>
-					</div>
+						</li>
+					</ul>
 				</div>
 				<div class="card-details">
 					<div class="card">

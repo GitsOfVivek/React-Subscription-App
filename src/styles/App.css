@@ -49,7 +49,7 @@ body {
 .more-info {
 	color: rgb(127, 127, 127);
 	text-align: center;
-	padding: 0 50px;
+	margin: 0 50px;
 	line-height: 25px;
 }
 .card-details {
@@ -79,8 +79,10 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-.feature li {
+li {
 	list-style: none;
+}
+.feature li {
 	margin: 2px 0;
 }
 .card-header, .why-us-header {
